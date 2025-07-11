@@ -2,9 +2,9 @@ parfile $PROTOMSHOME/parameter/amber14SB.ff
 parfile $PROTOMSHOME/parameter/solvents.ff
 parfile $PROTOMSHOME/parameter/amber14SB-residues.ff
 parfile $PROTOMSHOME/parameter/gaff16.ff
-parfile 7oke-VHQ-xtal-pdb4amber.tem
-protein1 7oke-protein-pdb4amber-pms_scoop.pdb
-solute1 7oke-VHQ-xtal-pdb4amber.pdb
+parfile 7oke-cmpd_1.tem
+protein1 7oke-protein-pms_scoop.pdb
+solute1 7oke-cmpd_1.pdb
 solvent1 water_clr.pdb
 outfolder out_gcmc1
 streamheader off
